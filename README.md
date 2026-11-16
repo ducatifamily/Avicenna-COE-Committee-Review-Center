@@ -41,3 +41,10 @@ Counts are a working inventory snapshot and may include duplicates, system files
 
 ## Maintenance
 Update `source-index.json` when evidence is added, moved, or replaced. The site reads its committee-facing program/evidence structure from that file through `app.js`.
+
+
+## Branding
+The committee site currently displays the existing Avicenna Allied Health Institute logo from:
+`https://avicenna-coe-accreditation-center.onrender.com/avicenna.jpg`
+
+For a completely self-contained deployment, place the official logo in the repository root as `avicenna.jpg` and replace the two logo `src` values in `index.html` with `avicenna.jpg`.
