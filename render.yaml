@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: avicenna-coe-committee-review-center
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .

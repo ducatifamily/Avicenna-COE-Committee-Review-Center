@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Avicenna Allied Health Institute COE Accreditation Committee Review Center">
+  <title>AAHI | COE Accreditation Committee Review Center</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="topbar">
+  <div class="brand">
+    <span class="brandmark">AAHI</span>
+    <span><strong>Avicenna Allied Health Institute</strong><small>COE Accreditation Committee Review Center</small></span>
+  </div>
+  <button id="menuBtn" class="menu" aria-expanded="false" aria-controls="nav">Menu</button>
+  <nav id="nav">
+    <a href="#overview">Overview</a>
+    <a href="#programs">Programs</a>
+    <a href="#matrix">Evidence Matrix</a>
+    <a href="#library">Evidence Library</a>
+    <a href="#outcomes">Outcomes</a>
+    <a href="#finder">Document Finder</a>
+  </nav>
+</header>
+
+<main id="main">
+  <section class="hero" id="overview">
+    <div>
+      <span class="eyebrow">Committee evidence navigator</span>
+      <h1>COE Curriculum & Accreditation Review Center</h1>
+      <p class="lead">A source-based portal for reviewing Avicenna Allied Health Institute curriculum, competency, certification, instructional, and program evidence.</p>
+      <div class="actions">
+        <a class="btn primary" href="#programs">Review by program</a>
+        <a class="btn" href="#library">Review by evidence type</a>
+        <a class="btn" href="https://drive.google.com/drive/folders/1wDTleQ8Xjl-dsqNaOFEFrA9wowxsJoUG" target="_blank" rel="noopener">Open source Drive ↗</a>
+      </div>
+    </div>
+    <aside class="hero-note">
+      <strong>Source-of-record notice</strong>
+      <p>Source documents remain in Google Drive. This portal organizes evidence for review; it does not replace official COE standards, criterion check sheets, or controlling institutional records.</p>
+      <p>Inventory snapshot: <b>November 16, 2026</b>.</p>
+    </aside>
+  </section>
+
+  <section class="summary-band">
+    <div><strong>572</strong><span>visible source items</span></div>
+    <div><strong>13</strong><span>program / specialty guide records</span></div>
+    <div><strong>129</strong><span>lesson-plan files</span></div>
+    <div><strong>244</strong><span>instructional-resource items</span></div>
+  </section>
+
+  <section class="section intro">
+    <span class="eyebrow">How to use this center</span>
+    <h2>Review the evidence from the perspective that fits your task.</h2>
+    <div class="how-grid">
+      <article><b>1</b><h3>Review by Program</h3><p>Open a program card to see the guides, syllabi, competencies, lesson plans, certification evidence, and instructional resources indexed for that program.</p></article>
+      <article><b>2</b><h3>Review by Evidence Type</h3><p>Use the Evidence Library to inspect all program guides, syllabi, competency evidence, lesson plans, and related instructional resources together.</p></article>
+      <article><b>3</b><h3>Use the Finder</h3><p>Search across program names and evidence categories to quickly locate the appropriate source folder or document.</p></article>
+    </div>
+  </section>
+
+  <section class="section" id="programs">
+    <span class="eyebrow">Program evidence</span>
+    <h2>Programs and specialty collections</h2>
+    <p class="sub">Only evidence located in the supplied Drive collection is displayed. An unlisted evidence category does not by itself establish that no source exists elsewhere.</p>
+    <div id="programGrid" class="program-grid"></div>
+  </section>
+
+  <section class="section alt" id="matrix">
+    <span class="eyebrow">Coverage view</span>
+    <h2>Program × evidence matrix</h2>
+    <p class="sub">A quick index of evidence currently linked through this review center. Select any available cell to open the source.</p>
+    <div class="tablewrap"><table id="matrixTable"><thead></thead><tbody></tbody></table></div>
+  </section>
+
+  <section class="section" id="library">
+    <span class="eyebrow">Evidence library</span>
+    <h2>Review by evidence type</h2>
+    <p class="sub">Counts reflect visible items in the November 16, 2026 Drive inventory and can include duplicates, working files, system files, or image-based artifacts.</p>
+    <div id="categoryGrid" class="category-grid"></div>
+  </section>
+
+  <section class="section alt" id="outcomes">
+    <span class="eyebrow">Outcomes and alignment</span>
+    <h2>Institutional and programmatic learning outcomes</h2>
+    <div class="alignment">
+      <span>AAHI Mission</span><i>→</i><span>Institutional Learning Outcomes</span><i>→</i><span>Programmatic Learning Outcomes</span><i>→</i><span>Course Learning Outcomes</span><i>→</i><span>Weekly / Lesson Objectives</span><i>→</i><span>Competency Assessments</span><i>→</i><span>Graduate Outcomes</span>
+    </div>
+    <p class="sub">This alignment chain is drawn from the AAHI Programmatic Learning Outcomes framework supplied in the review folder.</p>
+    <div id="institutionalGrid" class="institutional-grid"></div>
+    <div class="notice">
+      <strong>Additional outcomes in the framework</strong>
+      <p>The supplied Programmatic Learning Outcomes document also contains outcomes for Community Health Worker, Medical Scribing, and Registered Dental Assistant Preparation. Those outcomes are available in the institutional framework; separate full program evidence collections were not indexed in this Drive snapshot.</p>
+    </div>
+  </section>
+
+  <section class="section" id="finder">
+    <span class="eyebrow">Document finder</span>
+    <h2>Find evidence quickly</h2>
+    <div class="finder">
+      <label for="search">Search program or evidence type</label>
+      <input id="search" type="search" placeholder="Examples: pharmacy, syllabus, competency, instructor guide">
+      <select id="typeFilter" aria-label="Filter by evidence type">
+        <option value="">All evidence types</option>
+      </select>
+    </div>
+    <div id="results" class="results" aria-live="polite"></div>
+  </section>
+
+  <section class="section closing">
+    <h2>Source review remains document-based.</h2>
+    <p>This portal is designed to reduce navigation time and make evidence relationships easier to see. Reviewers should rely on the linked source documents and current official accreditation criteria when making determinations.</p>
+    <a class="btn primary" href="https://drive.google.com/drive/folders/1wDTleQ8Xjl-dsqNaOFEFrA9wowxsJoUG" target="_blank" rel="noopener">Open complete source folder ↗</a>
+  </section>
+</main>
+
+<footer>
+  <strong>Avicenna Allied Health Institute</strong>
+  <span>COE Accreditation Committee Review Center · Source-based evidence index</span>
+</footer>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,346 @@
+{
+  "inventory_date": "2026-11-16",
+  "source_root": "https://drive.google.com/drive/folders/1wDTleQ8Xjl-dsqNaOFEFrA9wowxsJoUG",
+  "visible_item_total": 572,
+  "note": "Counts are a review snapshot of visible Drive items and can include duplicates, working files, system files, and image-based syllabus artifacts. They are not a count of unique accreditation exhibits.",
+  "categories": [
+    {
+      "name": "Institutional / Cross-Program References",
+      "count": 2,
+      "url": "https://drive.google.com/drive/folders/1wDTleQ8Xjl-dsqNaOFEFrA9wowxsJoUG",
+      "note": "Programmatic Learning Outcomes framework and consolidated client program guides."
+    },
+    {
+      "name": "Program Guides",
+      "count": 13,
+      "url": "https://drive.google.com/drive/folders/1FcWGdFG_Z6mydzcxIgKqPcOHarAahssY",
+      "note": "Program-level overview and guide documents."
+    },
+    {
+      "name": "Instructor Guides",
+      "count": 12,
+      "url": "https://drive.google.com/drive/folders/1l535qYVefJiJIW_uzQa1GgdCF0w6Hq1r",
+      "note": "Instructor-facing program overview and implementation guides."
+    },
+    {
+      "name": "Student Guides",
+      "count": 12,
+      "url": "https://drive.google.com/drive/folders/1cLW-5Ekw9x41B4iXuvsfc6kmYlz83kho",
+      "note": "Student-facing program overview and guide documents."
+    },
+    {
+      "name": "Certification Pathways",
+      "count": 11,
+      "url": "https://drive.google.com/drive/folders/1SPuhumM7kSPzidKKpjKkFQfArTvTdwWH",
+      "note": "Certification pathway matrices for applicable programs."
+    },
+    {
+      "name": "Competencies",
+      "count": 49,
+      "url": "https://drive.google.com/drive/folders/11Wi29LGuC-yIQIv-a8gB3mKhZ4Z3GjLP",
+      "note": "Competency checklists and related competency evidence. Count includes visible working/system files."
+    },
+    {
+      "name": "Lesson Plans",
+      "count": 129,
+      "url": "https://drive.google.com/drive/folders/11bdM5jjs2fPdVrkrhmErazi1cUvED8FD",
+      "note": "Program and weekly instructor lesson-plan evidence."
+    },
+    {
+      "name": "Syllabi",
+      "count": 44,
+      "url": "https://drive.google.com/drive/folders/1MWrOdiS6VunFkADCAEURl4ppDUiPp2lC",
+      "note": "Course syllabi and related syllabus source files. Count includes one visible working file."
+    },
+    {
+      "name": "Articulate / Learning Resources",
+      "count": 244,
+      "url": "https://drive.google.com/drive/folders/1bKMSnbpXhiYl-RypduxWrWKs2f4e8F5Z",
+      "note": "Articulate lesson source/support files and associated instructional resources."
+    },
+    {
+      "name": "Live Skills",
+      "count": 53,
+      "url": "https://drive.google.com/drive/folders/1427qe2Ic5rP-LP08cJVnCp4ynxEWJ6PE",
+      "note": "Medical Assisting live-skills lesson plans and Pharmacy Technician skills/lab materials."
+    },
+    {
+      "name": "Palliative Care \u2014 Fully Online",
+      "count": 3,
+      "url": "https://drive.google.com/drive/folders/1IV4JOuY2ZBkSAskw7hkq-myYhF0TpooK",
+      "note": "Program, instructor, and student guide variants for the fully-online Palliative Care offering."
+    }
+  ],
+  "institutional": [
+    {
+      "title": "AAHI Programmatic Learning Outcomes \u2014 Institutional and Program-Level Framework",
+      "url": "https://docs.google.com/document/d/1XlE588cOgCKLv7iNGCyTGMPjXBRdlfo0/edit",
+      "description": "Institutional and programmatic learning outcomes, including the recommended alignment chain from institutional mission through graduate outcomes."
+    },
+    {
+      "title": "Word Version of Client Program Guides",
+      "url": "https://docs.google.com/document/d/1Uy4wX-LyWOp5Huoa11lVpz6_mLPO8zVo/edit",
+      "description": "Large consolidated reference file containing client-facing program-guide material."
+    }
+  ],
+  "programs": [
+    {
+      "name": "Behavioral Health Technician",
+      "abbr": "BHT",
+      "evidence": {
+        "Program Guide": "https://docs.google.com/document/d/1CNtpGSCEDOSjDxBAdC7CFXfnCIhocRDu/edit",
+        "Instructor Guide": "https://docs.google.com/document/d/19XE99juu2GOdzPeua5xdR67IWMb0F1Jf/edit",
+        "Student Guide": "https://docs.google.com/document/d/1y8vSb6wwKaAaJWZCMoFLNHp4PFlRBNYa/edit",
+        "Certification Pathway": "https://docs.google.com/document/d/1Sz9Br0pz2ChGOuU5WWpm7qVWSoQuJYkd/edit",
+        "Competencies": "https://drive.google.com/drive/folders/19GSNYm2TzxFNzCAFs2696udb5cmeK1-P",
+        "Lesson Plans": "https://drive.google.com/drive/folders/1xuCeEB7CNQNAq6B_lmAZpDBrTm03dI0x",
+        "Syllabi": "https://drive.google.com/drive/folders/1JOR2CZnBO49a4OfPbHn_fFaDnWrVpryK",
+        "Learning Resources": "https://drive.google.com/drive/folders/1mF-TB13gTSj180OjhqgKoTS2T1Jgz6ug"
+      },
+      "counts": {
+        "Learning Resources": 16,
+        "Competencies": 2,
+        "Lesson Plans": 13,
+        "Syllabi": 4
+      }
+    },
+    {
+      "name": "Dental Assisting Certificate",
+      "abbr": "DA",
+      "evidence": {
+        "Program Guide": "https://docs.google.com/document/d/1o1TsWUhj8vg_IWXhS7hqZvWOqgby8xA3/edit",
+        "Instructor Guide": "https://docs.google.com/document/d/1dYTJcqoNLOAQ0S3J6rIJAa9r-VibIsp3/edit",
+        "Student Guide": "https://docs.google.com/document/d/1AznqnAZ_WnpVrY5_Zg3C-VLvW94zEg76/edit",
+        "Certification Pathway": "https://docs.google.com/document/d/1gn9NsP4wFDewS1RHU7Vf6C3IQopv_ub8/edit",
+        "Competencies": "https://drive.google.com/drive/folders/1nkHiwd_z-q9_2M-7Ewxb9mdCfZcJpExk",
+        "Lesson Plans": "https://drive.google.com/drive/folders/1bdNNkY8XTaMP3_-wU9QKtggfn2dcuyPw",
+        "Syllabi": "https://drive.google.com/drive/folders/18tuW_SCkUICH2jCwKE49_rLynlzwTe9t",
+        "Learning Resources": "https://drive.google.com/drive/folders/11xVKuRRMTtZP8DAmCNHHfviMBH4TUHj4"
+      },
+      "counts": {
+        "Learning Resources": 54,
+        "Competencies": 13,
+        "Lesson Plans": 15,
+        "Syllabi": 5
+      }
+    },
+    {
+      "name": "Dental Assistant \u2014 Orthodontics Specialty",
+      "abbr": "DA-Ortho",
+      "type": "Specialty evidence collection",
+      "evidence": {
+        "Program Guide": "https://docs.google.com/document/d/16bP2G2XZpxZJrJGHCnNss-vWXVPgYFh5/edit",
+        "Competencies": "https://drive.google.com/drive/folders/1H2RdD7n1F04r7Vz8HjlZVjlTBbG7--xG",
+        "Lesson Plans": "https://drive.google.com/drive/folders/1r2nDBKlEzWPjoAKKeI1ROB2voG6mWS3c",
+        "Syllabi": "https://drive.google.com/drive/folders/18tuW_SCkUICH2jCwKE49_rLynlzwTe9t",
+        "Learning Resources": "https://drive.google.com/drive/folders/1ASLzoplY24kOpCOz7tRv4tJvytIKbg_g"
+      },
+      "counts": {
+        "Learning Resources": 10,
+        "Competencies": 2,
+        "Lesson Plans": 10
+      }
+    },
+    {
+      "name": "EKG Technician",
+      "abbr": "EKG",
+      "evidence": {
+        "Program Guide": "https://docs.google.com/document/d/1DIIUp_gEF4S3Y5YrGEsBvnffbI3CBWnI/edit",
+        "Instructor Guide": "https://docs.google.com/document/d/1d2QyXCQZlUWoUB-gfLVGEItR8Nm_2FyO/edit",
+        "Student Guide": "https://docs.google.com/document/d/166ayEXhezLTAjfUNUSPAfSkYjjpeceAu/edit",
+        "Competencies": "https://drive.google.com/drive/folders/1z2ppdwrnHCGcqAHIcXLGqO_o-fVuE6tq",
+        "Lesson Plans": "https://drive.google.com/drive/folders/1vlp95KR2eyBXJi-jlCG9blcaV2iRDUNH",
+        "Syllabi": "https://drive.google.com/drive/folders/1hZ0NHUeEBYLbWK_MZj4B_MqkV_hWKmcB",
+        "Learning Resources": "https://drive.google.com/drive/folders/1rhUahhVaEWCKim9a3nlqhhUNrwAfl7bP"
+      },
+      "counts": {
+        "Learning Resources": 7,
+        "Competencies": 1,
+        "Lesson Plans": 1,
+        "Syllabi": 2
+      }
+    },
+    {
+      "name": "Medical Administrative Assistant",
+      "abbr": "MAA",
+      "evidence": {
+        "Program Guide": "https://docs.google.com/document/d/1khWbsLuD3zpfZ84oXW14bi_kcyBbd3fJ/edit",
+        "Instructor Guide": "https://docs.google.com/document/d/1-bWpJo21UXP_psUIjoIMQyujLkYQyVFr/edit",
+        "Student Guide": "https://docs.google.com/document/d/1KSmvkY6mRLTRgGruLO9vh1BP-Cz0YEHV/edit",
+        "Certification Pathway": "https://docs.google.com/document/d/1EYs4H7bIE6dspfOPB9XAhja6rXbsWJ8s/edit",
+        "Competencies": "https://drive.google.com/drive/folders/1iIywMjMPaAM5_e2aeKWotv_VPbTe48Jf",
+        "Lesson Plans": "https://drive.google.com/drive/folders/1_WJjrufRWVeskOhrbBL7_1x7M2VpTPzj",
+        "Learning Resources": "https://drive.google.com/drive/folders/1yAwO7YuI9ArLRoWY7hl9E6L3Gh3lPUsg"
+      },
+      "counts": {
+        "Learning Resources": 12,
+        "Competencies": 1,
+        "Lesson Plans": 2
+      }
+    },
+    {
+      "name": "Medical Assisting Certificate",
+      "abbr": "MA",
+      "evidence": {
+        "Program Guide": "https://docs.google.com/document/d/1YbEeV9UpAwHga57ftr7KegoRzhajNieT/edit",
+        "Instructor Guide": "https://docs.google.com/document/d/1cKBkvbQ8qSoDDpOGjenCoIEblXSL1Lw7/edit",
+        "Student Guide": "https://docs.google.com/document/d/1WYP0kvh6hau11lObJstBe9ekNw4csVtv/edit",
+        "Certification Pathway": "https://docs.google.com/document/d/1him1i-LrJxaQCXeoNy_HQWB_zyqZ29_T/edit",
+        "Competencies": "https://drive.google.com/drive/folders/1v2-ZmaJX3aKstYl8tZ9vrbqzCwqoE31l",
+        "Lesson Plans": "https://drive.google.com/drive/folders/1S7H8YFL-O5v1ByrPRNr0h3gRFFtrwmTR",
+        "Syllabi": "https://drive.google.com/drive/folders/1fN41MGKowyM2fT_NhSPra6CED2W_x4eA",
+        "Learning Resources": "https://drive.google.com/drive/folders/1MgShxcnbNMlmMD5dzlTuPHECqJhU_yhx",
+        "Live Skills": "https://drive.google.com/drive/folders/1GBoE5WD7-WQOf6D1iDOCI8CT3XThXfy0"
+      },
+      "counts": {
+        "Learning Resources": 25,
+        "Competencies": 15,
+        "Lesson Plans": 13,
+        "Syllabi": 4,
+        "Live Skills": 19
+      }
+    },
+    {
+      "name": "Medical Billing and Coding Specialist",
+      "abbr": "MBC",
+      "evidence": {
+        "Program Guide": "https://docs.google.com/document/d/1kZ0wWnjL3KPIcg7s727o1CFEf9k3OFQL/edit",
+        "Instructor Guide": "https://docs.google.com/document/d/1Fy4hNZy4ibezBX4IMI5JZCyVa6tnueO5/edit",
+        "Student Guide": "https://docs.google.com/document/d/19gUqRhoMAs7uIXE3o3AL-Kij3ofCzp6X/edit",
+        "Certification Pathway": "https://docs.google.com/document/d/106gQxfmO2l31cWlduvlFVLQrfwFy5Rsj/edit",
+        "Competencies": "https://drive.google.com/drive/folders/1iMerv3WmfnKc32UmPCg_DDm_MsjpRk8r",
+        "Lesson Plans": "https://drive.google.com/drive/folders/1_fKDV20lVL0PmEjMP2g9bw5Y9W2BLr11",
+        "Syllabi": "https://drive.google.com/drive/folders/1Ple0MwKUtZdcYZO6r-SWuxp6mtQjN3Rm",
+        "Learning Resources": "https://drive.google.com/drive/folders/1HuohuXFR5n3sumg0Ig6J-EtVfZNRrjot"
+      },
+      "counts": {
+        "Learning Resources": 27,
+        "Competencies": 2,
+        "Lesson Plans": 15,
+        "Syllabi": 4
+      }
+    },
+    {
+      "name": "Medical Billing and Coding Certification Preparation Seminar",
+      "abbr": "MBCS",
+      "evidence": {
+        "Program Guide": "https://docs.google.com/document/d/1oQYQ6cDqsh85cYXHmn4IIQ55Ebp5dU-z/edit",
+        "Instructor Guide": "https://docs.google.com/document/d/1HSCJqYrBkXhyh4FuLWaOFDt1KEE-6gxc/edit",
+        "Student Guide": "https://docs.google.com/document/d/1epuMFJ4QuqJmYo32nsaZU8OZU7CDIIhF/edit",
+        "Certification Pathway": "https://docs.google.com/document/d/1bKTJfbK5q4pp6NUbPCH3NgrBnwUdK4BP/edit",
+        "Competencies": "https://drive.google.com/drive/folders/1H8TIIT1cybNyzFmPkKKELI9VAQ_CTxme",
+        "Lesson Plans": "https://drive.google.com/drive/folders/1KRlO9siRmSPCeq7IsIsQxp2nMxx6mcMX",
+        "Syllabi": "https://drive.google.com/drive/folders/1rarqUhz7_LhuSUNboLzbu7Xdxe_HqFGY"
+      },
+      "counts": {
+        "Competencies": 2,
+        "Lesson Plans": 16,
+        "Syllabi": 4
+      }
+    },
+    {
+      "name": "Palliative Care Certificate",
+      "abbr": "PC",
+      "evidence": {
+        "Program Guide": "https://docs.google.com/document/d/1itPHY8vMifaChHflh35jfAKw2PLfGEel/edit",
+        "Instructor Guide": "https://docs.google.com/document/d/1IjiKUSWopqL7MipXDW1hfXL4nHAM-znn/edit",
+        "Student Guide": "https://docs.google.com/document/d/1C4aBa-TPLxDUBzy9wPsoA2eCVM7WQGor/edit",
+        "Certification Pathway": "https://docs.google.com/document/d/1XhA-nbRXE-jmWlMg4ESVZ72jb30nMr-R/edit",
+        "Competencies": "https://drive.google.com/drive/folders/1A065-eRwxAEmx3c7-gDlHVL7e4HE86E-",
+        "Lesson Plans": "https://drive.google.com/drive/folders/1j5KBYqnltGBZpsn8f9H297qiJv42tEdj",
+        "Syllabi": "https://drive.google.com/drive/folders/19xQVA9pp2qK_ENYOVIaI6g86bQTGtyx7",
+        "Learning Resources": "https://drive.google.com/drive/folders/1ICdEoUkW_G5aAykidj-ANWAQm54JtqE9",
+        "Fully Online Guides": "https://drive.google.com/drive/folders/1IV4JOuY2ZBkSAskw7hkq-myYhF0TpooK"
+      },
+      "counts": {
+        "Learning Resources": 8,
+        "Competencies": 1,
+        "Lesson Plans": 9,
+        "Syllabi": 4,
+        "Fully Online Guides": 3
+      }
+    },
+    {
+      "name": "Patient Care Technician",
+      "abbr": "PCT",
+      "evidence": {
+        "Program Guide": "https://docs.google.com/document/d/1oU_0QIVbszvj7IV7Xz6WfF4VxAQ0JO60/edit",
+        "Instructor Guide": "https://docs.google.com/document/d/13cvp7ArQfjOHP1a1JXNLLKFKN4yBBrzy/edit",
+        "Student Guide": "https://docs.google.com/document/d/19KYkxHrfjn3wwRNGQ-XCMxl1JjMOjBSd/edit",
+        "Certification Pathway": "https://docs.google.com/document/d/17_cC0bWfkYih8kqD5sNBm5J5WS22cX4w/edit",
+        "Competencies": "https://drive.google.com/drive/folders/1ybIvjiKcP5mhVm094WXs3o7oDWTsahC8",
+        "Lesson Plans": "https://drive.google.com/drive/folders/1sxtyYP6RmvvzjnQSBlJvCOqdTRvEJbSR",
+        "Syllabi": "https://drive.google.com/drive/folders/1MrENgjXTidVRPUkRl-Z9YAaZl4XK8GGa",
+        "Learning Resources": "https://drive.google.com/drive/folders/1Sj44s0Ku_UkN43YYI3qdzZuvw8V-IM5f"
+      },
+      "counts": {
+        "Learning Resources": 17,
+        "Competencies": 2,
+        "Lesson Plans": 14,
+        "Syllabi": 4
+      }
+    },
+    {
+      "name": "Pharmacy Technician",
+      "abbr": "PHT",
+      "evidence": {
+        "Program Guide": "https://docs.google.com/document/d/1YW9_WUbnDfZlMGkbhYaqVsffvIVsXfgm/edit",
+        "Instructor Guide": "https://docs.google.com/document/d/1GdFVlKsS0vi04VztdBdoOVs7s7zTq1H6/edit",
+        "Student Guide": "https://docs.google.com/document/d/1Pbx1zELV5x-mGKAoQ64o1AV6ADSj7jB8/edit",
+        "Certification Pathway": "https://docs.google.com/document/d/1B3_uPfSzXm0n4aWkK6EtercMLDTBLlU7/edit",
+        "Competencies": "https://drive.google.com/drive/folders/1PNgtZEBQqpNw7eSd402NXt0QXCDersgB",
+        "Lesson Plans": "https://drive.google.com/drive/folders/1J6ZWk3oo-oWjlDaFMTRh70sz-7B1ayHv",
+        "Syllabi": "https://drive.google.com/drive/folders/1NpTrkhsr9km2KaNjXPwsXEs2lDhrSjYG",
+        "Learning Resources": "https://drive.google.com/drive/folders/1D3MNfmDgiJoAjHo4boO2Ix44MfEwp1qn",
+        "Live Skills": "https://drive.google.com/drive/folders/19xVIGkqIgnDW-uH7q3aMosDcy-_mR1xr"
+      },
+      "counts": {
+        "Learning Resources": 17,
+        "Competencies": 2,
+        "Lesson Plans": 1,
+        "Syllabi": 5,
+        "Live Skills": 34
+      }
+    },
+    {
+      "name": "Phlebotomy Technician",
+      "abbr": "PHL",
+      "evidence": {
+        "Program Guide": "https://docs.google.com/document/d/1GrnX2uiVWV5djYNvy__GFMKh5nZiiwnW/edit",
+        "Instructor Guide": "https://docs.google.com/document/d/1deOuPoGzYy39YaRO9jRAnNlu_ahpVwDo/edit",
+        "Student Guide": "https://docs.google.com/document/d/1nn-SFNn4kVuQ35uMus2pPmxunLnYXb-Y/edit",
+        "Certification Pathway": "https://docs.google.com/document/d/1_id-3r5kUW3zaPG-NreBVhlldCeJYHP_/edit",
+        "Competencies": "https://drive.google.com/drive/folders/1LFXVjOt20hOMY0njeKOlh18QvIaRhewh",
+        "Lesson Plans": "https://drive.google.com/drive/folders/1G_-uTlsIfaNokMAd6aLvhOZfRDTTH5MV",
+        "Syllabi": "https://drive.google.com/drive/folders/1_pMCY7Sy4R98VVQBOGcnOgq7e24kIzI7",
+        "Learning Resources": "https://drive.google.com/drive/folders/1YBtMUavePN9Xx9b2bOVor2SX1gSS5qLq"
+      },
+      "counts": {
+        "Learning Resources": 7,
+        "Competencies": 2,
+        "Lesson Plans": 6,
+        "Syllabi": 1
+      }
+    },
+    {
+      "name": "Sterile Processing Technician",
+      "abbr": "SPT",
+      "evidence": {
+        "Program Guide": "https://docs.google.com/document/d/1OV5lw609Ef2mupHXHlCairBMxH6ebv5W/edit",
+        "Instructor Guide": "https://docs.google.com/document/d/17Eg37nl6KA42bkAKPo_HB0lYzFvMeobE/edit",
+        "Student Guide": "https://docs.google.com/document/d/1k1Tbl7d0I5oPbSdQF8PqFVldi2uYnn0I/edit",
+        "Certification Pathway": "https://docs.google.com/document/d/1K4XJrzl7uLYGvHh0dgotk2ArY6ba2JOg/edit",
+        "Competencies": "https://drive.google.com/drive/folders/1daBUokzMVoXWVp7Cy1Hzqv4Nsd_0qiCx",
+        "Lesson Plans": "https://drive.google.com/drive/folders/1SHRQhZlZMADQIFrYM_hwuUtueB6Kf2FL",
+        "Syllabi": "https://drive.google.com/drive/folders/1aMv51wlNRJDMeaH10r89aB7MDpLhI5SR",
+        "Learning Resources": "https://drive.google.com/drive/folders/1plGz_S9VRMawzO1xiqvKTQIxdLOl7gjc"
+      },
+      "counts": {
+        "Learning Resources": 13,
+        "Competencies": 2,
+        "Lesson Plans": 14,
+        "Syllabi": 6
+      }
+    }
+  ]
+}
