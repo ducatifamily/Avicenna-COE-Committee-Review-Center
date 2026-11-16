@@ -3,7 +3,7 @@
   const res = await fetch('source-index.json');
   const data = await res.json();
 
-  const labels = ["Program Guide","Instructor Guide","Student Guide","Certification Pathway","Competencies","Lesson Plans","Syllabi","Learning Resources","Live Skills","Fully Online Guides"];
+  const labels = ["Program Guide","Instructor Guide","Student Guide","Certification Pathway","Competencies","Lesson Plans","Syllabi","Learning Resources","Live Skills"];
 
   const grid = document.getElementById('programGrid');
   data.programs.forEach(p=>{

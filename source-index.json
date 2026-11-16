@@ -1,7 +1,7 @@
 {
   "inventory_date": "2026-11-16",
   "source_root": "https://drive.google.com/drive/folders/1wDTleQ8Xjl-dsqNaOFEFrA9wowxsJoUG",
-  "visible_item_total": 572,
+  "visible_item_total": 569,
   "note": "Counts are a review snapshot of visible Drive items and can include duplicates, working files, system files, and image-based syllabus artifacts. They are not a count of unique accreditation exhibits.",
   "categories": [
     {
@@ -63,12 +63,6 @@
       "count": 53,
       "url": "https://drive.google.com/drive/folders/1427qe2Ic5rP-LP08cJVnCp4ynxEWJ6PE",
       "note": "Medical Assisting live-skills lesson plans and Pharmacy Technician skills/lab materials."
-    },
-    {
-      "name": "Palliative Care \u2014 Fully Online",
-      "count": 3,
-      "url": "https://drive.google.com/drive/folders/1IV4JOuY2ZBkSAskw7hkq-myYhF0TpooK",
-      "note": "Program, instructor, and student guide variants for the fully-online Palliative Care offering."
     }
   ],
   "institutional": [
@@ -249,15 +243,13 @@
         "Competencies": "https://drive.google.com/drive/folders/1A065-eRwxAEmx3c7-gDlHVL7e4HE86E-",
         "Lesson Plans": "https://drive.google.com/drive/folders/1j5KBYqnltGBZpsn8f9H297qiJv42tEdj",
         "Syllabi": "https://drive.google.com/drive/folders/19xQVA9pp2qK_ENYOVIaI6g86bQTGtyx7",
-        "Learning Resources": "https://drive.google.com/drive/folders/1ICdEoUkW_G5aAykidj-ANWAQm54JtqE9",
-        "Fully Online Guides": "https://drive.google.com/drive/folders/1IV4JOuY2ZBkSAskw7hkq-myYhF0TpooK"
+        "Learning Resources": "https://drive.google.com/drive/folders/1ICdEoUkW_G5aAykidj-ANWAQm54JtqE9"
       },
       "counts": {
         "Learning Resources": 8,
         "Competencies": 1,
         "Lesson Plans": 9,
-        "Syllabi": 4,
-        "Fully Online Guides": 3
+        "Syllabi": 4
       }
     },
     {

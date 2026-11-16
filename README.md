@@ -1,4 +1,4 @@
-# Avicenna COE Accreditation Committee Review Center
+# Avicenna Curriculum Instruction Resource Center
 
 Static GitHub/Render site generated from the AAHI accreditation evidence folder supplied for committee review.
 
@@ -8,7 +8,7 @@ This site is an evidence-navigation layer. It does **not** duplicate the source 
 ## Inventory snapshot
 - Inventory date: November 16, 2026
 - Source folder: https://drive.google.com/drive/folders/1wDTleQ8Xjl-dsqNaOFEFrA9wowxsJoUG
-- Approximately 572 visible items indexed across the supplied evidence collection.
+- Approximately 569 visible items indexed across the supplied evidence collection.
 - 13 program-guide records / specialty collections represented.
 - 12 instructor guides.
 - 12 student guides.
@@ -18,7 +18,6 @@ This site is an evidence-navigation layer. It does **not** duplicate the source 
 - 44 visible syllabus-related items.
 - 244 Articulate / instructional-resource items.
 - 53 live-skills items.
-- 3 fully-online Palliative Care guide variants.
 - 2 institutional / cross-program reference files.
 
 Counts are a working inventory snapshot and may include duplicates, system files, image-based artifacts, or working files. They are not a claim of unique exhibits or COE compliance.
